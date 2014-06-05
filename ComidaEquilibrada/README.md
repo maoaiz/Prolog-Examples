@@ -6,12 +6,12 @@ Prolog-Examples
 Consulta cuantas calorías tiene tu almuerzo.
 
 ##Cómo funciona?
-Ejemplos de Consultas::
+Debes compilar el archivo comida_equilibrada.pl con tu swi-prolog, luego puedes probar consultando::
 
 	es_comida_equilibrada(paella,pollo,nueces). 
 	es_comida_equilibrada(paella,trucha,nueces).
 	es_comida_equilibrada(paella,trucha,flan).
-	es_comida_equilibrada(sudado_de_pollo,trucha,flan). % mira lo que sucede si se agrega una comida que no existe en el menu.
+	es_comida_equilibrada(sudado_de_pollo,trucha,flan). % mira lo que sucede con comida que no existe en el menu.
 
 
 ###Test
