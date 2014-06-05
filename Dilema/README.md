@@ -30,7 +30,7 @@ Además, nos contaron lo siguente:
 ###Resultado
 Prolog puede ayudarnos a resuelver este dilema en cuestión de milisegundos! Prueba haciendolo tu mismo!
 
-<img src="https://github.com/MaoAiz/Prolog-Examples/tree/master/Dilema/img/dilemadelos5-sinresolver.png">
+<img src="https://raw.githubusercontent.com/MaoAiz/Prolog-Examples/master/Dilema/img/dilemadelos5-sinresolver.png">
 
 Lo resolviste? compara tus resultados con los de prolog y [mira la solución](https://github.com/MaoAiz/Prolog-Examples/tree/master/Dilema/img/dilemadelos5.png).
 
